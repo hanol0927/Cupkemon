@@ -11,7 +11,7 @@
       "id": "Cupkemon-1.16.5",
       "name": "Cupkemon (Minecraft 1.16.5)",
       "description": "Cupkemon Running Minecraft 1.16.5 (Forge v36.2.34)",
-      "icon": "http://localhost:8080/servers/Cupkemon-1.16.5/Icon.png",
+      "icon": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/Icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 212608,
             "MD5": "e8de93b1e25fcb60d847b2565d35369c",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+            "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 13577,
                 "MD5": "9cc72898a14a7d162d6813443761d30a",
-                "url": "http://localhost:8080/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 2773337,
                 "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 4214137,
                 "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "508b79f74ce5684cb5925dafbbdbab63",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -111,7 +111,7 @@
               "artifact": {
                 "size": 121790,
                 "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
@@ -121,7 +121,7 @@
               "artifact": {
                 "size": 72641,
                 "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
@@ -131,7 +131,7 @@
               "artifact": {
                 "size": 52662,
                 "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
@@ -141,7 +141,7 @@
               "artifact": {
                 "size": 84679,
                 "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
@@ -151,7 +151,7 @@
               "artifact": {
                 "size": 34257,
                 "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
@@ -161,7 +161,7 @@
               "artifact": {
                 "size": 126747,
                 "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-                "url": "http://localhost:8080/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
             {
@@ -171,7 +171,7 @@
               "artifact": {
                 "size": 2113,
                 "MD5": "d19b487241008d8e6111137a289ea1d7",
-                "url": "http://localhost:8080/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
             {
@@ -181,7 +181,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -191,7 +191,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "http://localhost:8080/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -201,7 +201,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -211,7 +211,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -221,7 +221,7 @@
               "artifact": {
                 "size": 25453,
                 "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -231,7 +231,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -241,7 +241,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "http://localhost:8080/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -251,7 +251,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "http://localhost:8080/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -261,7 +261,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "http://localhost:8080/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -271,7 +271,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "http://localhost:8080/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -281,7 +281,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "http://localhost:8080/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -291,7 +291,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -301,7 +301,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -311,7 +311,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -321,7 +321,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "http://localhost:8080/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -331,7 +331,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "http://localhost:8080/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -341,7 +341,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "http://localhost:8080/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -351,7 +351,7 @@
               "artifact": {
                 "size": 2194057,
                 "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+                "url": "https://hanol0927.github.io/Cupkemon/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
@@ -362,7 +362,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5890517,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-3.2.3-beta.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-3.2.3-beta.jar",
             "MD5": "237a63bf8a9260d5cbf62aac0afa6655"
           }
         },
@@ -372,7 +372,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27778,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/chat_heads-0.6.0-forge-1.16.5.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/chat_heads-0.6.0-forge-1.16.5.jar",
             "MD5": "10595dfd1a32c8e46e11a649f565fbe9"
           }
         },
@@ -382,7 +382,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1465189,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/cloth-config-4.17.132-forge.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/cloth-config-4.17.132-forge.jar",
             "MD5": "07248631eca30f7b4872284cc5c4c0f6"
           }
         },
@@ -392,7 +392,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188469,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/CocoaInput-1.16.5-forge-4.0.4.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/CocoaInput-1.16.5-forge-4.0.4.jar",
             "MD5": "ed7d070d481b0270a3c42e59548ba0ca"
           }
         },
@@ -402,7 +402,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5341,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/entitycollisionfpsfix-1.16-1.0.1.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/entitycollisionfpsfix-1.16-1.0.1.jar",
             "MD5": "84dbfa2da29359ffb63a825a7e46734e"
           }
         },
@@ -412,7 +412,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5907,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/FastFurnace-1.16.5-4.5.0.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/FastFurnace-1.16.5-4.5.0.jar",
             "MD5": "2474fd55475a370f97f162552db9a669"
           }
         },
@@ -422,7 +422,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22470,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/FastWorkbench-1.16.5-4.6.2.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/FastWorkbench-1.16.5-4.6.2.jar",
             "MD5": "a7e5518d5f03953d1d47aa52126b9071"
           }
         },
@@ -432,7 +432,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 108557,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
             "MD5": "6a96a36de00e5d8e9bf2e87634d13125"
           }
         },
@@ -442,7 +442,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 816694,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1013.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1013.jar",
             "MD5": "e8f7591f7e0fa9880a4886af7f599ad8"
           }
         },
@@ -452,7 +452,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6694200,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
             "MD5": "60fc57f5aace9a4c92896f4ced0c60f0"
           }
         },
@@ -462,7 +462,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2110314,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/kryptonreforged-mc1.16.5_v1.0.0.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/kryptonreforged-mc1.16.5_v1.0.0.jar",
             "MD5": "1e661faa2cc3be3040fb3024b93ab195"
           }
         },
@@ -472,7 +472,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15258,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/lazydfu-0.1.3.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/lazydfu-0.1.3.jar",
             "MD5": "fce7920ba6329d631da4025e9322e5e0"
           }
         },
@@ -482,7 +482,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 174158,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/Placebo-1.16.5-4.7.1.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/Placebo-1.16.5-4.7.1.jar",
             "MD5": "b9436888ceffed9622ce58e0d71f8fd2"
           }
         },
@@ -492,7 +492,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35368,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/PMBattleInfo-1.3.0.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/PMBattleInfo-1.3.0.jar",
             "MD5": "220832e2e7cb7c2a254fc0e30c8f7088"
           }
         },
@@ -502,7 +502,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20845,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/saturn-mc1.16.5-0.0.3.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/saturn-mc1.16.5-0.0.3.jar",
             "MD5": "44f8f173ce399b7ca01e42021555b611"
           }
         },
@@ -512,7 +512,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7722824,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.26.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.26.jar",
             "MD5": "1c7e010d40ea001f8cbea1a30d09e95f"
           }
         },
@@ -522,7 +522,7 @@
           "type": "File",
           "artifact": {
             "size": 13235668,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/mods/CustomNPCs-1.16.5.20220515.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/mods/CustomNPCs-1.16.5.20220515.jar",
             "MD5": "54181dfd61c8ffa1370438a3982e9b41",
             "path": "mods/CustomNPCs-1.16.5.20220515.jar"
           }
@@ -533,7 +533,7 @@
           "type": "File",
           "artifact": {
             "size": 2608793,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/mods/HaruMod-0.47.1-SNAPSHOT-unsigned.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/mods/HaruMod-0.47.1-SNAPSHOT-unsigned.jar",
             "MD5": "5766ab34d4d4fad9d34be3667f727521",
             "path": "mods/HaruMod-0.47.1-SNAPSHOT-unsigned.jar"
           }
@@ -544,7 +544,7 @@
           "type": "File",
           "artifact": {
             "size": 6046996,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/mods/OptiFine_1.16.5_HD_U_G8.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/mods/OptiFine_1.16.5_HD_U_G8.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4",
             "path": "mods/OptiFine_1.16.5_HD_U_G8.jar"
           }
@@ -555,7 +555,7 @@
           "type": "File",
           "artifact": {
             "size": 433694466,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/mods/Pixelmon-1.16.5-9.1.13-universal.jar",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/mods/Pixelmon-1.16.5-9.1.13-universal.jar",
             "MD5": "940ce2ebd483837439167c5f25335ff6",
             "path": "mods/Pixelmon-1.16.5-9.1.13-universal.jar"
           }
@@ -566,7 +566,7 @@
           "type": "File",
           "artifact": {
             "size": 6841,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/options.txt",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/options.txt",
             "MD5": "acfda0412e0cc623d740b3c81e2a3801",
             "path": "options.txt"
           }
@@ -577,7 +577,7 @@
           "type": "File",
           "artifact": {
             "size": 395,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/optionsshaders.txt",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/optionsshaders.txt",
             "MD5": "01e7ed2b72f697f8a4e7df62aee970b9",
             "path": "optionsshaders.txt"
           }
@@ -588,9 +588,9 @@
           "type": "File",
           "artifact": {
             "size": 1121678,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/resourcepacks/BSL_v10.0.zip",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/resourcepacks/BSL_v10.0.zip",
             "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
-            "path": "resourcepacks/BSL_v10.0.zip"
+            "path": "shaderpacks/BSL_v10.0.zip"
           }
         },
         {
@@ -599,9 +599,9 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "http://localhost:8080/servers/Cupkemon-1.16.5/files/resourcepacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/files/resourcepacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
-            "path": "resourcepacks/ComplementaryUnbound_r5.5.1.zip"
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
         }
       ]
