@@ -437,6 +437,16 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:iceberg:1.0.45@jar",
+          "name": "Iceberg",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61577,
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/Iceberg-1.16.5-1.0.45.jar",
+            "MD5": "ec502208377ca481a2e551b99e4cb050"
+          }
+        },
+        {
           "id": "mezz.jei:jei:7.8.0.1013@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -477,6 +487,16 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:legendarytooltips:1.3.1@jar",
+          "name": "Legendary Tooltips",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47620,
+            "url": "https://hanol0927.github.io/Cupkemon/Cupkemon-1.16.5/forgemods/required/LegendaryTooltips-1.16.5-1.3.1.jar",
+            "MD5": "0f3efac888568591ef0dd74a45d9a127"
+          }
+        },
+        {
           "id": "shadows.placebo:placebo:4.7.1@jar",
           "name": "Placebo",
           "type": "ForgeMod",
@@ -497,6 +517,16 @@
           }
         },
         {
+          "id": "com.anthonyhilyard:prism:1.0.1@jar",
+          "name": "Prism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 51909,
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/Prism-1.16.5-1.0.1.jar",
+            "MD5": "e05bc2b8aed2331717815029d1eb29c4"
+          }
+        },
+        {
           "id": "com.abdelaziz:saturn:0.0.3@jar",
           "name": "Saturn",
           "type": "ForgeMod",
@@ -507,13 +537,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.16.5-2.5.26@jar",
+          "id": "de.maxhenkel:voicechat:1.16.5-2.5.36@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7722824,
-            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.26.jar",
-            "MD5": "1c7e010d40ea001f8cbea1a30d09e95f"
+            "size": 7619323,
+            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.36.jar",
+            "MD5": "a681b74cb73c756c93c8f132c89226df"
           }
         },
         {
@@ -558,7 +588,7 @@
             "url": "https://www.dropbox.com/scl/fi/r3ps6jfw5cv4f9cgl2zw6/Pixelmon-1.16.5-9.1.13-universal.jar?rlkey=v65wvq8ekysjiavq30xrv1pli&st=bbyy6se5&dl=1",
             "MD5": "940ce2ebd483837439167c5f25335ff6",
             "path": "mods/Pixelmon-1.16.5-9.1.13-universal.jar"
-          }
+          },
         }
       ]
     }
