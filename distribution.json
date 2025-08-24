@@ -589,6 +589,17 @@
             "MD5": "940ce2ebd483837439167c5f25335ff6",
             "path": "mods/Pixelmon-1.16.5-9.1.13-universal.jar"
           }
+        },
+        {
+          "id": "Cupkemon_Itemsadder_pack.zip",
+          "name": "Cupkemon_Itemsadder_pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 375601,
+            "url": "https://www.dropbox.com/scl/fi/c1iw54qtqem6b2szzzw3g/Cupkemon_Itemsadder_pack.zip?rlkey=trk5g5e5iyy0kg5iv2bcbfpx0&st=87ulbh6n&dl=1",
+            "MD5": "6d55c068dbc5b16575338ac0d6d29852",
+            "path": "resourcepacks/Cupkemon_Itemsadder_pack.zip"
+          }
         }
       ]
     }
