@@ -417,16 +417,6 @@
           }
         },
         {
-          "id": "shadows.fastbench:fastbench:4.6.2@jar",
-          "name": "Fast Workbench",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22470,
-            "url": "https://hanol0927.github.io/Cupkemon/servers/Cupkemon-1.16.5/forgemods/required/FastWorkbench-1.16.5-4.6.2.jar",
-            "MD5": "a7e5518d5f03953d1d47aa52126b9071"
-          }
-        },
-        {
           "id": "malte0811.ferritecore:ferritecore:2.1.1@jar",
           "name": "Ferrite Core",
           "type": "ForgeMod",
